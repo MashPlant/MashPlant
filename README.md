@@ -8,7 +8,7 @@ https://mashplant.online/
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg alt="cpp" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
