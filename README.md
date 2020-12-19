@@ -1,4 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MashPlant&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<table align="right">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=MashPlant&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashPlant&layout=compact&langs_count=6" /></th>
+  </tr>
+</table>
 
 ### Hi there 👋
 
