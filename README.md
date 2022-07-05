@@ -17,8 +17,8 @@ https://mashplant.online/
 </p>
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-ar21.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-ar21.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" width="40" height="40"/>
 </p>
 
 <!--
