@@ -16,6 +16,11 @@ https://mashplant.online/
 <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="wasm" width="40" height="40"/> 
 </p>
 
+<p align="left">
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-ar21.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg" height="40"/>
+</p>
+
 <!--
 **MashPlant/MashPlant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
