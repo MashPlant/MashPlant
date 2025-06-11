@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-https://mashplant.online/
+https://mashplant.github.io/
 
 ### Languages and Tools:
 
